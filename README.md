@@ -252,7 +252,7 @@ The analysis script supports any number of participant CSV files. It generates:
 
 
 ```text
-output_study2/
+study_analysis/
 ├── all_responses_merged.csv
 ├── question_summary.csv
 ├── response_matrix.csv
